@@ -1,0 +1,2 @@
+--G.User = "username"--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Blazeghast001/Banana_Visual/main/Banana_Visual"))();
